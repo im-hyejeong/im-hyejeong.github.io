@@ -8,6 +8,7 @@
           <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
           <div class="hero__social">
             <span class="hero__social-title">Contact |</span>
+            <span class="hero__subtitle">E-mail: imhj973@gmail.com </span>
             {% include contact-link.html %}
           </div>
         </div>
