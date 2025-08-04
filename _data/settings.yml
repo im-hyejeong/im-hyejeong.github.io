@@ -1,37 +1,37 @@
 #-------------------------------
 # General Site Settings
 title: Zolan
-logo: logo.svg # You can add own logo.
+logo: memoticon.png # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Im Hyejeong
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: 안녕하세요, <strong>임혜정</strong>입니다.
+  bio: 데이터 분석 직무 전환을 준비하고 있는 임혜정입니다. <br> 새로운 지식을 빠르게 습득하고, 배운 내용을 업무에 적용하는 것을 즐깁니다. iOS 개발자로 3년간 서비스를 개발, 유지해온 경험을 바탕으로 조직 내에서 빠르게 성장할 자신이 있습니다.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
