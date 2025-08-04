@@ -1,11 +1,13 @@
-baseurl: "" # the subpath of your site, e.g. /blog
+/Users/hj/GitHub/im-hyejeong.github.io baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://im-hyejeong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+remote-theme: "artemsheludko/zolan"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 plugins:
+
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
