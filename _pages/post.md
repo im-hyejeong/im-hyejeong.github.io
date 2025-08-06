@@ -1,9 +1,9 @@
 ---
 layout: tag_page
 title: Post
-permalink: tag/Post/
+permalink: tag/post/
 image: 08.jpg
-Tags: POST
+Tags: post
 ---
 
 POST
