@@ -1,9 +1,7 @@
 ---
 layout: tag_page
-title: Post
+title: post
 permalink: tag/post/
-image: 08.jpg
-Tags: post
 ---
 
 POST
